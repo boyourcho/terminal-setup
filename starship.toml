@@ -1,0 +1,14 @@
+add_newline = false
+
+[character]
+success_symbol = "❯"
+error_symbol = "❯"
+
+[directory]
+truncation_length = 3
+
+[git_status]
+disabled = false
+
+[package]
+disabled = true

@@ -1,0 +1,4 @@
+shell = "/bin/zsh"
+font-family = "JetBrainsMonoNL Nerd Font"
+font-size = 13
+macos-option-as-alt = true
